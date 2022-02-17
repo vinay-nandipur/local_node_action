@@ -1,0 +1,5 @@
+name: 'local_node_action'
+description: 'Simply run deploy.js'
+runs:
+  using: 'node16'
+  main: 'deploy.js'
